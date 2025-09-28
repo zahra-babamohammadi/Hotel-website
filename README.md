@@ -18,8 +18,8 @@ This project showcases a modern, clean UI with animations and responsive design 
 
 ## 🖼️ Demo
 
-🔗 [Live Demo](https://your-github-username.github.io/hotel-booking/)  
-(Add your GitHub Pages link here)
+🔗 [Live Demo](https://zahra-babamohammadi.github.io/Hotel-website/)  
+
 
 ---
 
